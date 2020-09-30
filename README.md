@@ -2,7 +2,7 @@
 
 If the API is not responding, then most likely the current api key have exceeded its daily quota. If that happens, then you'll be needing a new youtube api key, it's easy to generate
 
-### 1. `Get a Youtube API key -You might not need it-`
+### 1. `Get a Amazon API key -You might not need it-`
 
 1. visit [Youtube developers console](https://console.developers.google.com/)
 2. Sign in with your google account
